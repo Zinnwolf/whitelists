@@ -1,9 +1,12 @@
 {
   "WhitelistedUsers": {
-    "9404340455": {
-      "hash": "e979277a445a552fc4cc49344c2c3296301184262de6a20aded20e8ffdb2d29a90a6b8bb2ed8ad376ac60f56b644a665744b16a8f65667361919a362778f708f",
-      "attackable": false,
+    "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": {
+      "role": "Private",
       "level": 1,
+      "attackable": false,
+      "username": "HenrySaber20569",
+      "displayName": "RivalingTheAnticheat",
+      "userId": 9404340455,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -11,20 +14,29 @@
         }
       ]
     },
-    "919665092025528441": {
-      "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
-      "attackable": false,
+    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": {
+      "role": "Private",
       "level": 1,
+      "attackable": false,
+      "username": "ludvik104",
+      "displayName": "Vikky",
+      "userId": 1904262391,
       "tags": [
         {
-          "text": "HCKR",
-          "color": [255, 255, 255]
+          "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
         }
       ]
     }
   },
   "WhitelistedTags": {
-    "9404340455": [
+    "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": [
       {
         "text": "VAPE PRIVATE",
         "color": [178, 0, 255]

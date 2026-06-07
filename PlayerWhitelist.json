@@ -4,9 +4,6 @@
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "HenrySaber20569",
-      "displayName": "RivalingTheAnticheat",
-      "userId": 9404340455,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -18,12 +15,20 @@
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "ludvik104",
-      "displayName": "Vikky",
-      "userId": 1904262391,
       "tags": [
         {
           "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
+        }
+      ]
+    },
+    "16f5ed72d946ddc636d111cb263a995f32c628162650496a14082036f27edd38": {
+      "role": "Private",
+      "level": 1,
+      "attackable": false,
+      "tags": [
+        {
+          "text": "RIC",
           "color": [178, 0, 255]
         }
       ]
@@ -39,6 +44,12 @@
     "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": [
       {
         "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "16f5ed72d946ddc636d111cb263a995f32c628162650496a14082036f27edd38": [
+      {
+        "text": "RIC",
         "color": [178, 0, 255]
       }
     ]

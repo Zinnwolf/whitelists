@@ -1,0 +1,42 @@
+{
+  "WhitelistedUsers": {
+    "9404340455": {
+      "hash": "e979277a445a552fc4cc49344c2c3296301184262de6a20aded20e8ffdb2d29a90a6b8bb2ed8ad376ac60f56b644a665744b16a8f65667361919a362778f708f",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
+        }
+      ]
+    },
+    "919665092025528441": {
+      "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [255, 255, 255]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "9404340455": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ]
+  },
+  "BlacklistedUsers": {},
+  "Announcement": {
+    "text": "testing",
+    "expiretime": 1780240344.074,
+    "targets": "all"
+  },
+  "KillVape": false,
+  "rand": 0.6030493204045226
+}

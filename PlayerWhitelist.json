@@ -1,12 +1,20 @@
 {
   "WhitelistedUsers": {
+    "9ea6e77f87f4692f14512703ac041084d27c5deb4cfe3e3a8b12f2787232462a": {
+      "role": "Private",
+      "level": 1,
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
+        }
+      ]
+    },
     "589a2dbc6a11ea849a5ebf70518b5d52f5aa50db6549515e2c7e5aac9ff42ed1": {
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "Soil_Violet",
-      "displayName": "Soil_Violet",
-      "userId": 10174663190,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -18,9 +26,6 @@
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "HenrySaber20569",
-      "displayName": "RivalingTheAnticheat",
-      "userId": 9404340455,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -32,9 +37,6 @@
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "ludvik104",
-      "displayName": "Vikky",
-      "userId": 1904262391,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -46,9 +48,6 @@
       "role": "Private",
       "level": 1,
       "attackable": false,
-      "username": "NeuralzRadiation",
-      "displayName": "NeuralzRadiation",
-      "userId": 10174664110,
       "tags": [
         {
           "text": "RIC",
@@ -58,6 +57,12 @@
     }
   },
   "WhitelistedTags": {
+    "9ea6e77f87f4692f14512703ac041084d27c5deb4cfe3e3a8b12f2787232462a": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
     "589a2dbc6a11ea849a5ebf70518b5d52f5aa50db6549515e2c7e5aac9ff42ed1": [
       {
         "text": "VAPE PRIVATE",

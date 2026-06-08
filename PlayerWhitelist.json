@@ -1,10 +1,9 @@
 {
-  "WhitelistedUsers": [
-    {
+  "WhitelistedUsers": {
+    "826491730582941667": {
       "hash": "e979277a445a552fc4cc49344c2c3296301184262de6a20aded20e8ffdb2d29a90a6b8bb2ed8ad376ac60f56b644a665744b16a8f65667361919a362778f708f",
-      "role": "Private",
-      "level": 1,
       "attackable": false,
+      "level": 1,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -12,11 +11,10 @@
         }
       ]
     },
-    {
+    "731905284619830452": {
       "hash": "1c6eaf47c8ebea756913db4e64794107ac046b5065d84f6ae402676228e31620f86b89b692fc8149e01ef0acd8955d1181c32b012e5fca5883807e16c78eb2be",
-      "role": "Private",
-      "level": 1,
       "attackable": false,
+      "level": 1,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -24,11 +22,10 @@
         }
       ]
     },
-    {
-      "hash": "9a970ac5107ef93dfbca921e7df8028137865fe88f9bed057bae4cc64f4d0c9c8a3741bc72ca107dc02716530ddcf7891c2035516f5a6edb2a9aa00232b09a3c",
-      "role": "Private",
-      "level": 1,
+    "947318605274619803": {
+      "hash": "f5ad76c1177d869cffdd806f1e79cc3857b6bae799b9a3068cf0458e4181613e265fa3df623dceaf528e8966f17df1946e49428f96960f290090c84496c598fb",
       "attackable": false,
+      "level": 1,
       "tags": [
         {
           "text": "RIC",
@@ -36,7 +33,27 @@
         }
       ]
     }
-  ],
+  },
+  "WhitelistedTags": {
+    "826491730582941667": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "731905284619830452": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "947318605274619803": [
+      {
+        "text": "RIC",
+        "color": [178, 0, 255]
+      }
+    ]
+  },
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "testing",

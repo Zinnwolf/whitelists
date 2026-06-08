@@ -1,5 +1,19 @@
 {
   "WhitelistedUsers": {
+    "589a2dbc6a11ea849a5ebf70518b5d52f5aa50db6549515e2c7e5aac9ff42ed1": {
+      "role": "Private",
+      "level": 1,
+      "attackable": false,
+      "username": "Soil_Violet",
+      "displayName": "Soil_Violet",
+      "userId": 10174663190,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
+        }
+      ]
+    },
     "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": {
       "role": "Private",
       "level": 1,
@@ -44,13 +58,19 @@
     }
   },
   "WhitelistedTags": {
+    "589a2dbc6a11ea849a5ebf70518b5d52f5aa50db6549515e2c7e5aac9ff42ed1": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
     "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": [
       {
         "text": "VAPE PRIVATE",
         "color": [178, 0, 255]
       }
     ],
-    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": [
+    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": [
       {
         "text": "VAPE PRIVATE",
         "color": [178, 0, 255]

@@ -1,5 +1,16 @@
 {
   "WhitelistedUsers": {
+    "460a420ea7ee0c5377b31cc3462b9a96dffdbe1b43352e26ca29b8c29af559c1": {
+      "role": "Private",
+      "level": 1,
+      "attackable": false,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [178, 0, 255]
+        }
+      ]
+    },
     "9ea6e77f87f4692f14512703ac041084d27c5deb4cfe3e3a8b12f2787232462a": {
       "role": "Private",
       "level": 1,
@@ -57,6 +68,12 @@
     }
   },
   "WhitelistedTags": {
+    "460a420ea7ee0c5377b31cc3462b9a96dffdbe1b43352e26ca29b8c29af559c1": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
     "9ea6e77f87f4692f14512703ac041084d27c5deb4cfe3e3a8b12f2787232462a": [
       {
         "text": "VAPE PRIVATE",

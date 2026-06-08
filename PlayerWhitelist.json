@@ -1,9 +1,12 @@
 {
   "WhitelistedUsers": {
-    "826491730582941667": {
-      "hash": "e979277a445a552fc4cc49344c2c3296301184262de6a20aded20e8ffdb2d29a90a6b8bb2ed8ad376ac60f56b644a665744b16a8f65667361919a362778f708f",
-      "attackable": false,
+    "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": {
+      "role": "Private",
       "level": 1,
+      "attackable": false,
+      "username": "HenrySaber20569",
+      "displayName": "RivalingTheAnticheat",
+      "userId": 9404340455,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -11,10 +14,13 @@
         }
       ]
     },
-    "731905284619830452": {
-      "hash": "1c6eaf47c8ebea756913db4e64794107ac046b5065d84f6ae402676228e31620f86b89b692fc8149e01ef0acd8955d1181c32b012e5fca5883807e16c78eb2be",
-      "attackable": false,
+    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": {
+      "role": "Private",
       "level": 1,
+      "attackable": false,
+      "username": "ludvik104",
+      "displayName": "Vikky",
+      "userId": 1904262391,
       "tags": [
         {
           "text": "VAPE PRIVATE",
@@ -22,10 +28,13 @@
         }
       ]
     },
-    "947318605274619803": {
-      "hash": "f5ad76c1177d869cffdd806f1e79cc3857b6bae799b9a3068cf0458e4181613e265fa3df623dceaf528e8966f17df1946e49428f96960f290090c84496c598fb",
-      "attackable": false,
+    "de299e1ae6b2e6fa81828dbd5894f8f64ee008ac62f9c11916ad96fce602e122": {
+      "role": "Private",
       "level": 1,
+      "attackable": false,
+      "username": "NeuralzRadiation",
+      "displayName": "NeuralzRadiation",
+      "userId": 10174664110,
       "tags": [
         {
           "text": "RIC",
@@ -34,7 +43,26 @@
       ]
     }
   },
-  "WhitelistedTags": {},
+  "WhitelistedTags": {
+    "d720911b2c67b163a01617b6e0064f738d92ae71ee106f76e6f9f466863be805": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "6519ae44ddbbd0b7ec15f7ecaa71fda15f7ecaa71fda15f7ad3d4ac594222ef8b16f87f116fbb": [
+      {
+        "text": "VAPE PRIVATE",
+        "color": [178, 0, 255]
+      }
+    ],
+    "de299e1ae6b2e6fa81828dbd5894f8f64ee008ac62f9c11916ad96fce602e122": [
+      {
+        "text": "RIC",
+        "color": [178, 0, 255]
+      }
+    ]
+  },
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "testing",

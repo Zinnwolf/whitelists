@@ -34,26 +34,7 @@
       ]
     }
   },
-  "WhitelistedTags": {
-    "826491730582941667": [
-      {
-        "text": "VAPE PRIVATE",
-        "color": [178, 0, 255]
-      }
-    ],
-    "731905284619830452": [
-      {
-        "text": "VAPE PRIVATE",
-        "color": [178, 0, 255]
-      }
-    ],
-    "947318605274619803": [
-      {
-        "text": "RIC",
-        "color": [178, 0, 255]
-      }
-    ]
-  },
+  "WhitelistedTags": {},
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "testing",
